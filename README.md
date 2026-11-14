@@ -1,8 +1,12 @@
 # codeGacha
-
+ 
 **A competitive 1v1 quiz game where players collect computer-science questions from gacha packs and battle by answering each other's decks — with free-text answers graded by semantic search.**
-
+ 
 Built at **UniHack 2026**.
+ 
+**[Live demo →](https://codegacha-frontend.vercel.app)**
+ 
+<img width="1708" alt="codeGacha screenshot" src="https://github.com/user-attachments/assets/ea3a8c41-dc86-4db7-a8e6-baa5ac5602b9" />
 
 ## Features
 
